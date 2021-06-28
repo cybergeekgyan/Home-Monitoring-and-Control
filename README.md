@@ -1,4 +1,4 @@
-## Home-Monitoring-and-Control
+## Home-Monitoring-and-Control-Raspberry-Pi-Alarm-System
 
 * Building a custom home monitoring system with a Raspberry Pi with some inexpensive hardware and simple web services.
 
@@ -34,3 +34,6 @@
   - Connecting the relay and motion detector
   - Programming the alarm in Python
   - Mounting and securing the alarm system
+
+
+
