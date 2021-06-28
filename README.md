@@ -4,10 +4,11 @@
 
 ### Features
 * We can monitor our house remotely via 
-       * photo or video surveillance, 
-       * detect motion, 
-       * turn lights on and off, and 
-       * send messages to our phone when different alarms are triggered.
+
+     * photo or video surveillance, 
+     * detect motion, 
+     * turn lights on and off, and 
+     * send messages to our phone when different alarms are triggered.
 
 **This DIY electronics project provides simple directions for getting our home monitoring system up and running.** 
 
